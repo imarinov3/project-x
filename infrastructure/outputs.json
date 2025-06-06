@@ -1,0 +1,8 @@
+{
+  "MountainTrekkingStack": {
+    "UserPoolClientId": "6h2de6eeljfqud8igs7vv0j78a",
+    "UserPoolId": "eu-central-1_qOmLt5tuF",
+    "ApiUrl": "https://mofgzug8j6.execute-api.eu-central-1.amazonaws.com/prod/",
+    "MountainTrekkingApiEndpoint92A61F70": "https://mofgzug8j6.execute-api.eu-central-1.amazonaws.com/prod/"
+  }
+}
